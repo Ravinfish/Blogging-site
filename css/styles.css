@@ -1,0 +1,28 @@
+h1 {
+    color: plum;
+}
+
+.important {
+    color:antiquewhite
+}
+
+.facts {
+    color: honeydew;
+    margin: 12px;
+    border: 2px solid hotpink;
+    padding: 4px;
+    background-color: lightcoral;
+}
+
+img {
+    float:inline-start;
+    height: 400px;
+
+
+    
+}
+
+body {
+    background-color: teal;
+    text-align: center;
+}
